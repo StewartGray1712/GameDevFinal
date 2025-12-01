@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae924d8a59f89224e898af8d9e6b0c25, type: 3}
+  m_Name: RedGemCluster
+  m_EditorClassIdentifier: 
+  itemName: RedGemCluster
+  icon: {fileID: 21300000, guid: 53d25e5a539aadd499206879800bfb25, type: 3}
+  worldPrefab: {fileID: 919132149155446097, guid: 817d4cd93cdada74fa031069407ff89f,
+    type: 3}
+  description: Cluster of red gemstones is most likely garnet in its raw, crystalline
+    form.
+  maxStack: 30
